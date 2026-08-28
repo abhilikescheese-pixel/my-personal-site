@@ -11,4 +11,6 @@ Key features of this website:
 
 -A nice clean font (Comic Sans MS)
 
+please ignore website.html
+
 NOTE FOR REWIEWER: during this project my css code would not register i tried to fix this issue but nothing worked,so my project only contains html.
